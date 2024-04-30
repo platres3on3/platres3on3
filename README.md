@@ -4,15 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.
-     <p>
 </head> 
-    <style>
+<style>
         body {
-            background-image: url("C:\Users\Anna Gavriel\Downloads\platres3on3.png");
+            background-image: url("[C:\Users\Anna Gavriel\Downloads\platres3on3.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf_czwyNTn_FWzG7qdCmHeJckRpdm2xKaDb30Kp9WEA&s)");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
-   </style>          
+</style>          
 <body>
     <h1>Platres 3on3 Basketball Tournament</h1>
     <ul>
@@ -34,10 +33,10 @@
 </ul>  
 
 Για οποιεσδήποτε ερωτήσεις, αιτήματα για βοήθεια ή ανάγκη για διευκρινίσεις, παρακαλούμε επικοινωνήστε μαζί μας μέσω των παρακάτω στοιχείων επικοινωνίας
-     <p>
+        <p>
         Email : <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a><br>
         Phone : 99342037 / 99909580 <br>
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a> 
-    </p>
+   ``  </p>   
 </body>
 </html>
