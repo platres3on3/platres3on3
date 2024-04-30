@@ -1,12 +1,7 @@
 <html lang="el">
-
-<style>
-        body {
-            background-image: url("[C:\Users\Anna Gavriel\Downloads\platres3on3.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf_czwyNTn_FWzG7qdCmHeJckRpdm2xKaDb30Kp9WEA&s)");
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-</style>          
+     
+<img src="platres3on3.png">        
+          
 <body>
     <h1>Platres 3on3 Basketball Tournament</h1>
     <ul>
