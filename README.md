@@ -21,10 +21,10 @@
 </ul>  
 
 Για οποιεσδήποτε ερωτήσεις, αιτήματα για βοήθεια ή ανάγκη για διευκρινίσεις, παρακαλούμε επικοινωνήστε μαζί μας μέσω των παρακάτω στοιχείων επικοινωνίας
-        <p>
+ <p>
         Email     : <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a><br>
         Phone     : 99342037 / 99909580 <br>
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a> 
-      </p>   
+ </p>   
 </body>
 </html>
