@@ -1,5 +1,5 @@
 <html lang="el">      
-<img src="coverimage.png">  
+<img src="platres3on3.png">   
 <body>
     <h1>Platres 3on3 Basketball Tournament</h1>
     <ul>
@@ -25,6 +25,6 @@
         Email : <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a><br>
         Phone : 99342037 / 99909580 <br>
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a> 
-   ``  </p>   
+      </p>   
 </body>
 </html>
