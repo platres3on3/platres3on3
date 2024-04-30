@@ -1,9 +1,5 @@
 <html lang="el">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.
-</head> 
+
 <style>
         body {
             background-image: url("[C:\Users\Anna Gavriel\Downloads\platres3on3.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf_czwyNTn_FWzG7qdCmHeJckRpdm2xKaDb30Kp9WEA&s)");
