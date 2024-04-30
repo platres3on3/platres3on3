@@ -11,9 +11,6 @@
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
-        p {
-            font-size: 10px;
-        }
 </style>          
 <body>
     <h1>Platres 3on3 Basketball Tournament</h1>
