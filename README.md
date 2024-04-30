@@ -14,10 +14,10 @@
             background-attachment: fixed;
    </style>          
 <body>
-    <h1>Platres 3on3 Basketball Tournament </h1>
+    <h1>Platres 3on3 Basketball Tournament</h1>
     <ul>
     <li <h5>Ημερομηνία : 2 Ιουνίου 2024.</h5></li> 
-    <li>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
+    <li <h5>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</h5></li>
 </ul>
     <p>
      
