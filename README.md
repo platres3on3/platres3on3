@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="en">
 <img src="background5.png">
 
