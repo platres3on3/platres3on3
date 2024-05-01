@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="el">
 <head>
     <meta charset="UTF-8">
@@ -74,25 +73,10 @@
                 "en": "The registration cost for a team is €140 (for 4 people) which will cover:",
                 "el": "Το κόστος εγγραφής μια ομάδας ανέρχεται στα €140 (4 άτομα) το οποίο θα καλύπτει:"
             },
-            "registration_details": {
-                "en": "<ul><li>Registration for the Platres 3on3 Basketball Tournament.</li><li>Double-sided basketball jersey.</li><li>Monetary contribution to the two organizations.</li></ul>",
-                "el": "<ul><li>εγγραφή στο Platres 3on3 Basketball Tournament.</li><li>διπλής όψης καλαθοσφαιρική στολή.</li><li>χρηματική συνεισφορά στους δύο οργανισμούς.</li></ul>"
-            },
-            "division": {
+           ,
+            "Division": {
                 "en": "Division:",
                 "el": "Κατηγορίες Διοργάνωσης:"
-            },
-            "men": {
-                "en": "Men",
-                "el": "Άντρες"
-            },
-            "women": {
-                "en": "Women",
-                "el": "Γυναίκες"
-            },
-            "mixed": {
-                "en": "Mixed",
-                "el": "Μεικτό"
             },
             "more_info": {
                 "en": "For more information:",
@@ -117,10 +101,13 @@
     <h5 data-translate="registration_dates" class="hidden">Registrations will be open from May 1st to May 29th, 2024, through the link: <a href="https://forms.office.com/r/NkmdV3gJKs?origin=lprLink">here</a>.</h5>
     <h5 data-translate="registration_cost" class="hidden">The registration cost for a team is €140 (for 4 people) which will cover:</h5>
     <p data-translate="registration_details" class="hidden">
-   
+    <ul><li>Registration for the Platres 3on3 Basketball Tournament.
+        </li><li>Double-sided basketball jersey.
+        </li><li>Monetary contribution to the two organizations.</li>
+    </ul>
     </p>
-    <h5 data-translate="division" class="hidden">Division:</h5>
-    <ul data-translate="division" class="hidden">
+    <h5 data-translate="Division" class="hidden">Division:</h5>
+   <ul>
         <li data-translate="men"></li> 
         <li data-translate="women"></li>
         <li data-translate="mixed"></li>        
