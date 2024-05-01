@@ -1,5 +1,5 @@
 <html lang="el">      
-<img src="background2.png">
+<img src="background4.png">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -38,4 +38,5 @@
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
     </p>   
 </body>
+
 </html>
