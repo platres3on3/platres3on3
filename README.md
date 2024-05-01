@@ -78,8 +78,8 @@
                 "en": "<ul><li>Registration for the Platres 3on3 Basketball Tournament.</li><li>Double-sided basketball jersey.</li><li>Monetary contribution to the two organizations.</li></ul>",
                 "el": "<ul><li>εγγραφή στο Platres 3on3 Basketball Tournament.</li><li>διπλής όψης καλαθοσφαιρική στολή.</li><li>χρηματική συνεισφορά στους δύο οργανισμούς.</li></ul>"
             },
-            "event_division": {
-                "en": "Event Division:",
+            "Division": {
+                "en": "Division:",
                 "el": "Κατηγορίες Διοργάνωσης:"
             },
             "more_info": {
@@ -105,8 +105,8 @@
     <h5 data-translate="registration_dates" class="hidden">Registrations will be open from May 1st to May 29th, 2024, through the link: <a href="https://forms.office.com/r/NkmdV3gJKs?origin=lprLink">here</a>.</h5>
     <h5 data-translate="registration_cost" class="hidden">The registration cost for a team is €140 (for 4 people) which will cover:</h5>
     <p data-translate="registration_details" class="hidden"><ul><li>Registration for the Platres 3on3 Basketball Tournament.</li><li>Double-sided basketball jersey.</li><li>Monetary contribution to the two organizations.</li></ul></p>
-    <h5 data-translate="event_division" class="hidden">Event Division:</h5>
-    <ul data-translate="event_division" class="hidden">
+    <h5 data-translate="Division" class="hidden">Division:</h5>
+    <ul data-translate="Division" class="hidden">
         <li>Men</li> 
         <li>Women</li>
         <li>Mixed</li>        
@@ -114,8 +114,7 @@
     <h5 data-translate="more_info" class="hidden">For more information:</h5>  
     <p class="hidden">
         Email: <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a> <br>
-        Phone:  99909580 / 99342037 <br>
+        Phone: 99342037 / 99909580 <br>
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
     </p>   
-</body>
 </html>
