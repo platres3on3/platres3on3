@@ -117,10 +117,7 @@
     <h5 data-translate="registration_dates" class="hidden">Registrations will be open from May 1st to May 29th, 2024, through the link: <a href="https://forms.office.com/r/NkmdV3gJKs?origin=lprLink">here</a>.</h5>
     <h5 data-translate="registration_cost" class="hidden">The registration cost for a team is €140 (for 4 people) which will cover:</h5>
     <p data-translate="registration_details" class="hidden">
-    <ul><li>Registration for the Platres 3on3 Basketball Tournament.
-        </li><li>Double-sided basketball jersey.
-        </li><li>Monetary contribution to the two organizations.</li>
-    </ul>
+   
     </p>
     <h5 data-translate="division" class="hidden">Division:</h5>
     <ul data-translate="division" class="hidden">
