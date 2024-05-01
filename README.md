@@ -1,5 +1,5 @@
 <html lang="el">      
-<img src="background.png">
+<img src="background2.png">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
