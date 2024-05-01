@@ -11,7 +11,7 @@
     <h1> Platres 3on3 Basketball Tournament</h1>
     <ul>
         <li>Ημερομηνία : 2 Ιουνίου 2024.</li> 
-        <li>Τοποθεσία : Platres Arena, Πλάτρες.</li>
+        <li>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
     </ul>    
 <p>
 Μετά από μια επιτυχημένη χρονιά, το <b>Platres 3on3</b> επιστρέφει στο γήπεδο των Πάνω Πλατρών για μια ακόμη διοργάνωση, με κύριο στόχο την υποστήριξη του <b>Ιδρύματος Μικροί Ήρωες</b> και του <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>, δύο μη κερδοσκοπικών οργανισμών οι οποίοι παρέχουν βοήθεια και στήριξη σε παιδιά τα οποία παλεύουν με την λευχαιμία, σε γυναίκες και άντρες οι οποίοι αγωνίζονται κατά του  καρκίνου του μαστού.
@@ -39,4 +39,4 @@
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
     </p>   
 </body>
-</html
+</html>
