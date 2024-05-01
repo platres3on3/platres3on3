@@ -150,7 +150,22 @@
     <p data-translate="initiative">This initiative is led by a small team of young volunteers who, with enthusiasm, dedication, and determination, have embarked on this noble effort. Their aim is to provide an opportunity for both young and old basketball enthusiasts to actively support the efforts of our fellow citizens against cancer, and to showcase that youth can be pillars in the long-term and altruistic endeavors of these organizations.</p>
 
     <h5 data-translate="registration_dates">Registrations will be open from May 1st to May 29th, 2024, through the link: <a href=https://forms.office.com/r/NkmdV3gJKs?origin=lprLink>here</a>.</h5>
-
-</body>
-
-</html>
+ <h5 data-translate="registration_cost">The registration cost for a team is €140 (for 4 people) which will cover:</h5>
+    <ul>
+        <li data-translate="registration_cost">Registration for the Platres 3on3 Basketball Tournament.</li>
+        <li>Double-sided basketball jersey.</li>
+        <li>Monetary contribution to the two organizations.</li>
+    </ul>
+    <h5 data-translate="event_categories">Event Division:</h5>
+    <ul>
+        <li>Men</li>
+        <li>Women</li>
+        <li>Mixed</li>
+    </ul>
+    <h5 data-translate="more_info">For more information:</h5>
+    <p>
+        Email: <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a> <br>
+        Phone:  99909580 / 99342037 <br>
+        Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
+    </p>
+</body
