@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.
      <p>
-</head>    
+ 
 
 <body>
     <h1> Platres 3on3 Basketball Tournament</h1>
