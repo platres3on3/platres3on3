@@ -38,5 +38,4 @@
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
     </p>   
 </body>
-
 </html>
