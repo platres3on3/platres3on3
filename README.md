@@ -1,5 +1,5 @@
 <html lang="el">      
-<img src="platres3on3.png">
+<img src="background.png">
 <body>
     <h1> Platres 3on3 Basketball Tournament</h1>
     <ul>
