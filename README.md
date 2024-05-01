@@ -35,7 +35,7 @@
 
         h1, ul, p, h5 {
 
-            color: white;
+            color: black;
 
         }
 
