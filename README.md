@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en">
+<img src="background5.png">
 
 <head>
 
@@ -11,22 +12,6 @@
     <title>Platres 3on3 Basketball Tournament</title>
 
     <style>
-
-        body {
-
-            margin: 0;
-
-            padding: 0;
-
-            background-image: url('background2.png');
-
-            background-size: cover;
-
-            background-repeat: no-repeat;
-
-        }
-
- 
 
         #language-btns {
 
