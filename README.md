@@ -35,7 +35,7 @@
             <li>Location: <a href="https://platresarena.com/">Platres Arena</a>, Platres.</li>
         </ul>
         <p>
-            <p style="text-align: justify;">After a successful year, Platres 3on3 returns to the Panos Platres basketball court for another event, with the main goal of supporting the <span style="color: #CB5996; font-weight: bold;">Mikroi Iroes Foundation</span> and <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>, two non-profit organizations that provide assistance and support to children battling leukemia, and to women and men fighting breast cancer.</p>
+            <p style="text-align: justify;">After a successful effort, Platres 3on3 returns to the Panos Platres basketball court for another event, with the main goal of supporting the <span style="color: #CB5996; font-weight: bold;">Mikroi Iroes Foundation</span> and <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>, two non-profit organizations that provide assistance and support to children battling leukemia, and to women and men fighting breast cancer.</p>
         </p>
         <p>
             <p style="text-align: justify;">This initiative is led by a small team of young volunteers, who, with enthusiasm, dedication, and dynamism, have started this relentless effort. Their goal is to give both young and old basketball fans the opportunity to actively support the efforts of our fellow citizens against cancer, and to highlight that young people can be pillars in the long-term and altruistic efforts of these organizations.</p>
