@@ -28,7 +28,7 @@
 <body>
     <img src="background5.png" alt="Background Image">
     <div class="content" id="english-content">
-        <p style="text-align: center;"><i>When love for fellow human beings and basketball become an inspiration for a great celebration.</i></p>
+        <i>When love for fellow human beings and basketball become an inspiration for a great celebration.</i>
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
             <li>Date: 2 June 2024</li>
@@ -41,7 +41,7 @@
             This initiative is led by a small team of young volunteers, who, with enthusiasm, dedication, and dynamism, have started this relentless effort. Their goal is to give both young and old basketball fans the opportunity to actively support the efforts of our fellow citizens against cancer, and to highlight that young people can be pillars in the long-term and altruistic efforts of these organizations.
         </p>
         <h5>Registrations will be open from 1 May to 29 May 2024 through the link <a href="https://forms.office.com/r/NkmdV3gJKs?origin=lprLink">here</a>.</h5>
-        <h5>The registration cost for a team is €140 (4 people) which will cover:</h5>
+        <h5>The registration cost for a team is €140 (4 people / €35 Per Player ) which will cover:</h5>
         <ul>
             <li>Registration in the Platres 3on3 Basketball Tournament.</li>
             <li>Double-sided basketball uniform.</li>
@@ -61,7 +61,7 @@
         </p>
     </div>
     <div class="content" id="greek-content" style="display: none;">
-        <p style="text-align: center;"><i>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</i></p>
+        <i>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</i>
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
             <li>Ημερομηνία: 2 Ιουνίου 2024</li>
@@ -74,7 +74,7 @@
             Η πρωτοβουλία αυτή ηγείται από μικρή ομάδα νέων εθελοντών, οι οποίοι, με ενθουσιασμό, αφοσίωση και δυναμισμό, ξεκίνησαν αυτή την άοκνη προσπάθεια. Στόχος τους είναι αφενός να δώσουν την ευκαιρία σε μικρούς και μεγάλους φίλους της καθαλόσφαιρας να στηρίξουν έπρακτα την προσπάθεια των συνανθρώπων μας κατά του καρκίνου και αφετέρου να αναδείξουν ότι οι νέοι μπορούν να αποτελέσουν στηλοβάτες στην μακροχρόνια και αλτρουιστική προσπάθεια αυτών των οργανισμών.
         </p>
         <h5>Οι εγγραφές θα είναι ανοικτές από 1 Μαίου έως 29 Μαΐου 2024 μέσω του συνδέσμου <a href="https://forms.office.com/r/NkmdV3gJKs?origin=lprLink">εδώ</a>.</h5>
-        <h5>Το κόστος εγγραφής μια ομάδας ανέρχεται στα €140 (4 άτομα) το οποίο θα καλύπτει:</h5>
+        <h5>Το κόστος εγγραφής μια ομάδας ανέρχεται στα €140 (4 άτομα / €35 ανά παίχτη) το οποίο θα καλύπτει:</h5>
         <ul>
             <li>Εγγραφή στο Platres 3on3 Basketball Tournament.</li>
             <li>Διπλής όψης καλαθοσφαιρική στολή.</li>
