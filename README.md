@@ -10,8 +10,8 @@
             height: auto;
         }
         .content {
-            margin: 18px;
-            font-family: Arial, sans-serif;
+            margin: 16px;
+            font-family: Calibri, sans-serif;
             color: #333;
         }
         .toggle-button {
