@@ -44,7 +44,7 @@
         <h5>The registration cost for a team is €140 (4 people / €35 Per Player ) which will cover:</h5>
         <ul>
             <li>Registration in the Platres 3on3 Basketball Tournament.</li>
-            <li>Double-sided basketball uniform.</li>
+            <li>Double-Sided Basketball Jersey</li>
             <li>Financial contribution to the two organizations.</li>
         </ul>
         <h5>Organization Categories:</h5>
