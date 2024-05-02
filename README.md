@@ -10,7 +10,7 @@
             height: auto;
         }
         .content {
-            margin: 20px;
+            margin: 18px;
             font-family: Arial, sans-serif;
             color: #333;
         }
