@@ -28,7 +28,7 @@
 <body>
     <img src="background5.png" alt="Background Image">
     <div class="content" id="english-content">
-        <i>When love for fellow human beings and basketball become an inspiration for a great celebration.</i>
+        <p style="text-align: center;"><i>When love for fellow human beings and basketball become an inspiration for a great celebration.</i></p>
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
             <li>Date: 2 June 2024</li>
@@ -61,7 +61,7 @@
         </p>
     </div>
     <div class="content" id="greek-content" style="display: none;">
-        <i>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</i>
+        <p style="text-align: center;"><i>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</i></p>
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
             <li>Ημερομηνία: 2 Ιουνίου 2024</li>
