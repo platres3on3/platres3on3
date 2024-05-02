@@ -28,7 +28,7 @@
 <body>
     <img src="background5.png" alt="Background Image">
     <div class="content" id="english-content">
-        <h1><p style="text-align: center;"><i>When love for fellow human beings and basketball become an inspiration for a great celebration.</i></p></h1>
+        <h5><p style="text-align: center;"><i>When love for fellow human beings and basketball become an inspiration for a great celebration.</i></p></h5>
         <ul>
             <li>Date: 2 June 2024</li>
             <li>Location: <a href="https://platresarena.com/">Platres Arena</a>, Platres.</li>
@@ -60,7 +60,7 @@
         </p>
     </div>
     <div class="content" id="greek-content" style="display: none;">
-        <h1><p style="text-align: center;"><i>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</i></p></h1>
+        <h5><p style="text-align: center;"><i>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</i></p></h5>
         <ul>
             <li>Ημερομηνία: 2 Ιουνίου 2024</li>
             <li>Τοποθεσία: <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
