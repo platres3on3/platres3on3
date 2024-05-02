@@ -49,9 +49,9 @@
         </ul>
         <h5>Organization Categories:</h5>
         <ul>
-            <li>Men</li>
-            <li>Women</li>
-            <li>Mixed</li>
+            <li>Men Division</li>
+            <li>Women Division</li>
+            <li>Mixed Division</li>
         </ul>
         <h5>For more information:</h5>
         <p>
