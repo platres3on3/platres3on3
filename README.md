@@ -57,9 +57,9 @@
         </ul>
         <h5>For more information:</h5>
         <p>
-            Email: <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a> <br>
             Phone: 99909580 / 99342037 <br>
             Instagram: <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
+            Email: <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a>
         </p>
     </div>
     <div class="content" id="greek-content" style="display: none;">
@@ -90,9 +90,9 @@
         </ul>
         <h5>Για περισσότερες πληροφορίες:</h5>
         <p>
-            Email: <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a> <br>
             Τηλέφωνο: 99909580 / 99342037 <br>
             Instagram: <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
+            Email: <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a>
         </p>
     </div>
 
