@@ -13,7 +13,7 @@
             margin: 10px;
             font-family: Calibri, sans-serif;
             color: #333;
-            font-size: 10px;
+            font-size: 12px;
         }
         .toggle-button {
             position: fixed;
