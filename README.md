@@ -10,9 +10,10 @@
             height: auto;
         }
         .content {
-            margin: 9px;
+            margin: 10px;
             font-family: Calibri, sans-serif;
             color: #333;
+            font-size: 10px;
         }
         .toggle-button {
             position: fixed;
