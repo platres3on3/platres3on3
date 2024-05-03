@@ -20,6 +20,7 @@
             top: 10px;
             right: 10px;
             z-index: 999;
+            font-size: 12px;
         }
         .center-text {
             text-align: justify;
