@@ -10,7 +10,7 @@
             height: auto;
         }
         .content {
-            margin: 12px;
+            margin: 10px;
             font-family: Calibri, sans-serif;
             color: #333;
         }
